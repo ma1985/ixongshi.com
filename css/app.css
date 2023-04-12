@@ -9433,7 +9433,7 @@ section.masthead .device-container .screen img {
 
 .device-mockup.iphone14promax.portrait.white>.device,
 .device-mockup.iphone14promax.white>.device {
-  background-image: url(../device-mockups/iphone14promax/white.png)
+  background-image: url(../device-mockups/iphone14promax/white.webp)
 }
 
 
@@ -9754,7 +9754,7 @@ section.masthead .device-container .screen img {
 
 .device-mockup.iphone14promax.black>.device,
 .device-mockup.iphone14promax.portrait.black>.device {
-  background-image: url(../device-mockups/iphone14promax/black.png)
+  background-image: url(../device-mockups/iphone14promax/webp.png)
 }
 
 .device-mockup>.device {
